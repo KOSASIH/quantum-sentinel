@@ -1,7 +1,7 @@
 # Development dependencies
 flask==2.0.1                # Web framework
 pytest==6.2.4               # Testing framework
-black==21.7b0               # Code formatter
+black==24.3.0               # Code formatter
 mypy==0.910                 # Static type checker
 flake8==3.9.2               # Code linting
 requests==2.26.0            # HTTP library for making requests
